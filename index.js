@@ -15,3 +15,4 @@ let c = sum(1, 6);
 console.log(c);
 let d = sum('arsal', 'sultan');
 console.log(d);
+let b = 2;
