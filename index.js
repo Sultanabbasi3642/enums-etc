@@ -16,3 +16,4 @@ console.log(c);
 let d = sum('arsal', 'sultan');
 console.log(d);
 let b = 2;
+let a = 2;
